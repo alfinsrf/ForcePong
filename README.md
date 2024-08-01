@@ -13,8 +13,7 @@ I'd like to explain the game I've created. Enjoy!
 <br>
 
 ## 📌Play Game
-❗[Force Pong Itch.Io Pages](https://afr-developer.itch.io/force-pong)
-
+✨Force Pong Game Pages [Link to Itch.Io pages](https://afr-developer.itch.io/force-pong)
 
 <br>
 
