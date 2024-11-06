@@ -8,7 +8,7 @@ Hi, I'm Alfin 👋
 <br>
 I'd like to explain the game I've created. Enjoy! 
 <br>
-**Force Pong** is a variation of ping pong game where players move their characters up and down to prevent a bomb ball from exploding in their territory. The objective is to explode the bomb ball 11 times in the opponent's territory in order to conquer the galaxy.
+**Force Pong** is a variation of ping pong games where players move their characters up and down to prevent a bomb ball from exploding in their territory. The objective is to explode the bomb ball 11 times in the opponent's territory in order to conquer the galaxy.
 
 <br>
 
